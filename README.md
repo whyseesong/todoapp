@@ -31,9 +31,5 @@ npm run build
 
 6. 목록의 우선순위는 할 일의 나열 순서로 결정된다. 할 일을 드래그하면 목록의 순서를 변경할 수 있다.
 
-![addtodo](/img/11.png ){: width="33%" height="33%"}
-![completetodo](/img/22.png ){: width="33%" height="33%"}
-![revisetodo](/img/33.png ){: width="33%" height="33%"}
-![prioritychange1](/img/1.png ){: width="33%" height="33%"}
-![prioritychange2](/img/2.png ){: width="33%" height="33%"}
-![prioritychange3](/img/3.png ){: width="33%" height="33%"}
+<img src="/img/11.png"> <img src="/img/22.png"> <img src="/img/33.png">
+<img src="/img/1.png"> <img src="/img/2.png"> <img src="/img/3.png">
